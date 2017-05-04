@@ -9,6 +9,7 @@ elm-discuss is the Google group aimed at Elm users to discuss items.
 - Keep it short and sweet. Long posts tire the reader.
 - Stay on topic! If you want to side-track on a certain topic, make a new thread. They're free!
 - Avoid repeating what others have said. 
+- Avoid posting +1s. 
 
 ### Things which are okay to post :thumbsup:
 
