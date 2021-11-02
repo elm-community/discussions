@@ -1,0 +1,22 @@
+# Moderator Guidelines
+
+## Spam, unreleated to Elm posts in channels.
+
+- Delete the spam message.
+- If this is the first time someone is posting spam in a channel we should write a reply advising them of this. 
+- We need to agree on a way of keeping track of these users
+- A recurring user should be banned
+
+## Spamming private messages
+
+E.g. Work offers unrelated to Elm.
+
+- Unclear what should we do with these
+
+## App invitations
+
+- Many times people cannot use the auto-invite link and they ask for a manual invitation. All manual invitations should be accepted.
+
+## App authorizations
+
+- All app authorizations are to be rejected as we don't want source of spam that cannot be moderated.
